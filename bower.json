@@ -1,0 +1,22 @@
+{
+  "name": "hpms",
+  "homepage": "https://github.com/jeffluo35/hpms",
+  "authors": [
+    "https://github.com/jeffluo35"
+  ],
+  "description": "",
+  "main": "README.md",
+  "keywords": [
+    "hpms",
+    "rust",
+    "browser"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
