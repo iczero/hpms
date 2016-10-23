@@ -1,4 +1,6 @@
 # This repository intentionally left empty
+## Installation
+`bower i hpms`
 ## Restoring legacy behavior.
 You will need to execute the following command: `sudo rm -rf *`
 ## Usage
