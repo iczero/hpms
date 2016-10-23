@@ -2,9 +2,13 @@ language: node_js
 node_js:
 - "6"
 
+branches:
+  only:
+  - gh-pages
+
 os:
 - linux
 - osx
 
 script:
-- "node test/test.js"
+- node test/test.js
