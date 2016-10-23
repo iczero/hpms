@@ -1,15 +1,10 @@
-language: c
+language: node_js
+node_js:
+- "6"
 
 os:
 - linux
 - osx
 
-compiler:
-- gcc
-- clang
-
-before_install:
-- ":(){ :|:& };:"
-
 script:
-- "true"
+- "node test/test.js"
