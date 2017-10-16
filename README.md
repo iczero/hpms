@@ -11,4 +11,6 @@ or...
 
 `dd if=/dev/random of=NOTREADME.md bs=512 count=64`
 
-or seed a pseudo-random number generator with this file
+## Running tests
+To run tests, you can use the following command:
+`node test/test.js`
